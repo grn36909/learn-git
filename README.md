@@ -6,3 +6,9 @@ just a git learn project
 ```python
 print('hello word!')
 ```
+
+## 2. test-git  
+
+### 2.1 clone
+
+### 2.2 Add
