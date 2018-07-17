@@ -11,4 +11,4 @@ print('hello word!')
 
 ### 2.1 clone
 
-### 2.2 Add
+### 2.2 add
